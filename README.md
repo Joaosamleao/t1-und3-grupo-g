@@ -1,7 +1,4 @@
-# Trabalho 1 - Unidade 3 - Grupo G
-
-```markdown
-# 11228 - Transportation System (UVA Online Judge)
+# 11228 - Transportation System (UVA Online Judge) - Grupo G
 
 Este repositório contém a solução em **Java** para o problema [11228 - Transportation System](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2169) do UVA Online Judge.
 
@@ -40,4 +37,3 @@ A solução foi desenvolvida utilizando o **Algoritmo de Kruskal** devido à sua
 
 3. **Compile o código-fonte:**
    Abra o terminal na pasta do projeto e execute o comando: javac Main.java
-```
