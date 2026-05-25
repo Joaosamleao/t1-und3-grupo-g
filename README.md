@@ -9,7 +9,7 @@ Este repositório contém a solução em **Java** para o problema [11228 - Trans
 
 O objetivo é projetar um sistema de transporte para o país de *Graphland* conectando todas as cidades com o menor custo possível (Árvore Geradora Mínima - MST). A regra principal divide as conexões com base num limiar $R$:
 * **Estradas:** Conectam cidades pertencentes ao mesmo estado (distância <= R).
-* **Ferrovias:** Conectam cidades de estados diferentes (distância >= R).
+* **Ferrovias:** Conectam cidades de estados diferentes (distância > R).
 
 O programa deve calcular e imprimir:
 1. O número de estados formados.
